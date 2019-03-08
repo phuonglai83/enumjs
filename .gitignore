@@ -1,0 +1,8 @@
+.DS_STORE
+.scannerwork
+.vscode
+.sonarlint
+.ideal
+
+node_modules
+public
